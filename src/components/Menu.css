@@ -1,0 +1,34 @@
+.navbar {
+  width: 100%;
+  background-color: bisque;
+}
+
+.menu-container {
+  display: flex;
+  align-items: center;
+  justify-content: start;
+  padding: 10px;
+}
+
+.nav-links {
+  display: flex;
+  list-style: none;
+  align-items: center;
+  margin-left: 20px;
+}
+
+.nav-link {
+  text-decoration: none;
+  color: rgb(245, 220, 190);
+  margin-right: 15px;
+}
+
+.nav-link:hover,
+.nav-link:focus {
+  color: brown;
+  background-color: rgb(240, 200, 190);
+}
+.nav-links li{
+  margin:10px;
+
+}
