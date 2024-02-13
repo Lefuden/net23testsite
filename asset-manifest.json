@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Lefuden/net23testsite/static/css/main.a27ebd54.css",
-    "main.js": "/Lefuden/net23testsite/static/js/main.aafa6218.js",
-    "static/js/592.4933e741.chunk.js": "/Lefuden/net23testsite/static/js/592.4933e741.chunk.js",
-    "index.html": "/Lefuden/net23testsite/index.html",
-    "main.a27ebd54.css.map": "/Lefuden/net23testsite/static/css/main.a27ebd54.css.map",
-    "main.aafa6218.js.map": "/Lefuden/net23testsite/static/js/main.aafa6218.js.map",
-    "592.4933e741.chunk.js.map": "/Lefuden/net23testsite/static/js/592.4933e741.chunk.js.map"
+    "main.css": "/net23testsite/static/css/main.a27ebd54.css",
+    "main.js": "/net23testsite/static/js/main.98dd37fa.js",
+    "static/js/592.4933e741.chunk.js": "/net23testsite/static/js/592.4933e741.chunk.js",
+    "index.html": "/net23testsite/index.html",
+    "main.a27ebd54.css.map": "/net23testsite/static/css/main.a27ebd54.css.map",
+    "main.98dd37fa.js.map": "/net23testsite/static/js/main.98dd37fa.js.map",
+    "592.4933e741.chunk.js.map": "/net23testsite/static/js/592.4933e741.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a27ebd54.css",
-    "static/js/main.aafa6218.js"
+    "static/js/main.98dd37fa.js"
   ]
 }
